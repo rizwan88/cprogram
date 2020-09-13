@@ -18,7 +18,7 @@ int main()
     }
     if(flag==0)
     {
-        cout<<n<<"  Is Prime at Possition = "<<i;
+        cout<<n<<"  Is Prime";
         return 0;
     }
 }
